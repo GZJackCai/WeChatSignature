@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+            android:enabled="false"
+            android:key="@string/key_packages"
+            android:title="@string/choose_an_application"
+            android:summary="@android:string/unknownName"
+            />
+
+    <Preference
+            android:dependency="@string/key_packages"
+            android:title="@string/get_signature"
+            android:key="@string/key_get_signature"/>
+
+    <Preference
+            android:dependency="@string/key_packages"
+            android:persistent="false"
+            android:key="@string/key_signature"/>
+
+    <Preference
+            android:key="@string/key_feedback"
+            android:title="@string/feedback"
+            android:summary="@string/version_name"
+            />
+
+    <Preference
+            android:title="@string/about"
+            android:summary="@string/about_summary"
+            />
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微信应用签名</string>
+    <string name="feedback">反馈</string>
+    <string name="get_signature">获取签名</string>
+    <string name="choose_an_application">请选择已安装的应用</string>
+    <string name="mail_title">有关「微信应用签名生成器」的反馈</string>
+    <string name="about">关于</string>
+    <string name="about_summary">小朋友请在家长的陪护下使用本应用</string>
+</resources>

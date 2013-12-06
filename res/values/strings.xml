@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeChat Signature</string>
+    <string name="key_packages">key_packages</string>
+    <string name="key_get_signature">key_get_signature</string>
+    <string name="key_feedback">key_feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="get_signature">Get Signature</string>
+    <string name="choose_an_application">Choose An Application</string>
+    <string name="key_signature">key_signature</string>
+    <string name="version_name">20131206</string>
+    <string name="mail">lucky@gracecode.com</string>
+    <string name="mail_title">Feedback about WeChat Signature</string>
+    <string name="about">About</string>
+    <string name="about_summary"/>
+</resources>
